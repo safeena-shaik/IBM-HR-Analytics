@@ -21,7 +21,8 @@ The project covers the complete analytics workflow:
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.png)
+
+![Dashboard](Images/Dashboard.png)
 
 ---
 
@@ -47,6 +48,7 @@ The project covers the complete analytics workflow:
 - Git & GitHub
 
 ---
+
 
 ## Project Workflow
 
