@@ -21,7 +21,7 @@ The project covers the complete analytics workflow:
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ---
 
